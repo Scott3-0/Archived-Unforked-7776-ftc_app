@@ -1,3 +1,8 @@
+# A Note before you use!
+This repository is the sum of almost all of FIRST Tech Challenge team 7776's code going back to the 2016-17 Velocity Vortex season. If you would like to use any of this code for yourself, feel free to. For updated code and more info on future season go to Scott3-0/18461-ftc_app. This is what we will be using for the2020-21 Ultimate Goal season. Everything has been saved in it's original form, including everything past this paragraph in this Read Me.
+
+\- Scott
+
 # Welcome Scott 3.0!
 
 So you have chosen the path of programmer. An unfortunate choice, but a choice none the less.
